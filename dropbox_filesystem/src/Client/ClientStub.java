@@ -17,7 +17,11 @@ public class ClientStub {
     }
 
     public void scanDownloadDir() {
-
+        /*
+        * 1. Validate the path
+        * 2. Get all the files in directory
+        * 3. Scan and hash the file and update the localFileBlocks
+        * */
     }
 
     public boolean command(String[] operation) {

@@ -23,7 +23,7 @@ public class dropbox {
         System.out.println("");
     }
 
-    public static void printClientConsole() {
+    private static void printClientConsole() {
         System.out.println("Dropbox > ");
     }
 
