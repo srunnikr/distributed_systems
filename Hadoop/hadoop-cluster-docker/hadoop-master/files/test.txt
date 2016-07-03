@@ -1,0 +1,17 @@
+come to	5
+docker my	5
+for hello	4
+for you	1
+friend i	5
+hadoop hello	4
+hello docker	9
+hello hadoop	4
+i come	5
+i friend	4
+look for	5
+my old	9
+old friend	1
+old i	4
+old my	4
+to look	5
+you again	1

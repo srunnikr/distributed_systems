@@ -1,0 +1,5 @@
+FROM ubuntu:latest
+MAINTAINER Stanilav Mushits <smushits@ucsd.edu>
+COPY string.txt /data/
+VOLUME /data
+CMD ["true"]

@@ -1,0 +1,3 @@
+FROM python:latest
+MAINTAINER Stanilav Mushits <smushits@ucsd.edu>
+COPY catserver.py /
